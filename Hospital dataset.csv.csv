@@ -1,0 +1,11 @@
+name ,age ,gender,patient id ,mobile no,Disease,treatment,types of treatment,duration,doctor name,follow-up,discharge/not disease
+Harish.B,21,M,502P,854048203,cancer,chemotherapy,medical,6months,Dr.balaji,yes,yes
+Ajay.J,19,M,503P,747949103,Diabets,insulin therapy,medical,life long,Dr.bala,yes,yes
+magi,19,M,504P,985491392,Fever,paracetamol,medical,5day,Dr.Ramiya,no,yes
+Gokul,19,M,505P,458930100,kidney failure,diaysis,medical,weekly,Dr.Aravind,yes,yes
+abi,24,F,506P,854830034,cough,syrup&antibiotics,medical,7days,Dr.lavanya,no,yes
+Susi,19,F,507P,376502349,hyper tenstion,BP tablets,medical,lifelong,Dr.james,yes,yes
+Puna,19,F,508P,684729910,fracture,plaster&rest,orthopedic,2months,Dr.mathew,yes,yes
+Hema,20,F,509P,676632992,Corona,isolation+meds,medical,14days,Dr.mithal,no,yes
+Selvi,19,F,510P,735483209,Heart disease,angioplastery,surgical,3months,Dr.john,yes,yes
+monisha,19,F,511P,932773438,tissue disease,steroid therapy,medical,2months,Dr.subalakshmi,yes,yes
